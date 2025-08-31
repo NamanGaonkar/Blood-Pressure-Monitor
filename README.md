@@ -19,6 +19,8 @@ pip install pandas matplotlib openpyxl
 
 Run the main script:
 
+![View Of the Graph Plotting](image.png)
+
 Follow the prompts:
 - Choose to add new reading, view data, or plot graphs.
 - Enter blood pressure values and optional notes.
@@ -41,5 +43,6 @@ bp_tracker_project/
 - Customize the script for additional features or data export.
 
 ---
+
 
 Created for personal use to monitor and analyze blood pressure trends.
